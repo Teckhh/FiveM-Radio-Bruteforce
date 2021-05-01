@@ -1,0 +1,15 @@
+C:\Users\Techh\source\repos\FiveM Radio Bruteforce\FiveM Radio Bruteforce\bin\Debug\FiveM Radio Bruteforce.exe.config
+C:\Users\Techh\source\repos\FiveM Radio Bruteforce\FiveM Radio Bruteforce\bin\Debug\FiveM Radio Bruteforce.exe
+C:\Users\Techh\source\repos\FiveM Radio Bruteforce\FiveM Radio Bruteforce\bin\Debug\FiveM Radio Bruteforce.pdb
+C:\Users\Techh\source\repos\FiveM Radio Bruteforce\FiveM Radio Bruteforce\bin\Debug\NAudio.dll
+C:\Users\Techh\source\repos\FiveM Radio Bruteforce\FiveM Radio Bruteforce\bin\Debug\NAudio.xml
+C:\Users\Techh\source\repos\FiveM Radio Bruteforce\FiveM Radio Bruteforce\obj\Debug\FiveM Radio Bruteforce.csprojAssemblyReference.cache
+C:\Users\Techh\source\repos\FiveM Radio Bruteforce\FiveM Radio Bruteforce\obj\Debug\FiveM Radio Bruteforce.csproj.CoreCompileInputs.cache
+C:\Users\Techh\source\repos\FiveM Radio Bruteforce\FiveM Radio Bruteforce\obj\Debug\FiveM Radio Bruteforce.csproj.CopyComplete
+C:\Users\Techh\source\repos\FiveM Radio Bruteforce\FiveM Radio Bruteforce\obj\Debug\FiveM Radio Bruteforce.exe
+C:\Users\Techh\source\repos\FiveM Radio Bruteforce\FiveM Radio Bruteforce\obj\Debug\FiveM Radio Bruteforce.pdb
+C:\Users\Techh\source\repos\FiveM Radio Bruteforce\FiveM Radio Bruteforce\bin\Debug\AutoItX3.dll
+C:\Users\Techh\source\repos\FiveM Radio Bruteforce\FiveM Radio Bruteforce\bin\Debug\AutoItX3_x64.dll
+C:\Users\Techh\source\repos\FiveM Radio Bruteforce\FiveM Radio Bruteforce\bin\Debug\AutoItX3.Assembly.dll
+C:\Users\Techh\source\repos\FiveM Radio Bruteforce\FiveM Radio Bruteforce\bin\Debug\AutoItX3.Assembly.xml
+C:\Users\Techh\source\repos\FiveM Radio Bruteforce\FiveM Radio Bruteforce\bin\Debug\Colorful.Console.dll
